@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="main_cat_recipe">
+
+        <item>National Kitchen|national_kitchen.jpg</item>
+        <item>Picnic Kitchen|picnic_kitchen.jpg</item>
+        <item>Country Kitchen|country_kitchen.jpg</item>
+        <item>Kitchen for Athletes|kitchen_athletes_1.jpg</item>
+        <item>Healthy Eating Kitchen|healthy_eating_kitchen.jpg</item>
+        <item>Kitchen for Students|kitchen_students.jpg</item>
+        <item>Meat Kitchen|meet_kitchen.jpg|vegan_kitchen.jpg</item>
+        <item>Vegan Kitchen|vegan_kitchen.jpg</item>
+
+    </string-array>
+
+</resources>
